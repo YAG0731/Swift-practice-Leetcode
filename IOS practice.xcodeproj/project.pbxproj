@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		3764C9012A650C8A00879924 /* issubsequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = issubsequency.swift; path = ../../Downloads/Sources/issubsequency.swift; sourceTree = "<group>"; };
+		3764C9022A650C8A00879924 /* palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = palindrome.swift; path = ../../Downloads/Sources/palindrome.swift; sourceTree = "<group>"; };
+		3764C9032A650C8A00879924 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = ../../Downloads/Sources/main.swift; sourceTree = "<group>"; };
+		3764C9042A650C8A00879924 /* prep1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = prep1.swift; path = ../../Downloads/Sources/prep1.swift; sourceTree = "<group>"; };
+		3764C9052A650C8A00879924 /* movezero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = movezero.swift; path = ../../Downloads/Sources/movezero.swift; sourceTree = "<group>"; };
+		3764C9062A650C8A00879924 /* roman-Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "roman-Integer.swift"; path = "../../Downloads/Sources/roman-Integer.swift"; sourceTree = "<group>"; };
+		3764C9072A650C8A00879924 /* longestPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = longestPrefix.swift; path = ../../Downloads/Sources/longestPrefix.swift; sourceTree = "<group>"; };
+		3764C9082A650C8A00879924 /* twosum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = twosum.swift; path = ../../Downloads/Sources/twosum.swift; sourceTree = "<group>"; };
+		3764C90A2A650C8A00879924 /* preorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = preorder.swift; path = ../../Downloads/Sources/preorder.swift; sourceTree = "<group>"; };
+		379F2E252A6570EB00823622 /* TwoSumEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumEqual.swift; sourceTree = "<group>"; };
+		379F2E262A65712F00823622 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		3764C8FA2A650C1B00879924 = {
+			isa = PBXGroup;
+			children = (
+				379F2E252A6570EB00823622 /* TwoSumEqual.swift */,
+				3764C9012A650C8A00879924 /* issubsequency.swift */,
+				3764C9072A650C8A00879924 /* longestPrefix.swift */,
+				3764C9032A650C8A00879924 /* main.swift */,
+				3764C9052A650C8A00879924 /* movezero.swift */,
+				3764C9022A650C8A00879924 /* palindrome.swift */,
+				3764C90A2A650C8A00879924 /* preorder.swift */,
+				3764C9042A650C8A00879924 /* prep1.swift */,
+				3764C9062A650C8A00879924 /* roman-Integer.swift */,
+				3764C9082A650C8A00879924 /* twosum.swift */,
+				379F2E262A65712F00823622 /* MyPlayground.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		3764C8FB2A650C1B00879924 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 3764C8FE2A650C1B00879924 /* Build configuration list for PBXProject "IOS practice" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3764C8FA2A650C1B00879924;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		3764C8FF2A650C1B00879924 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		3764C9002A650C1B00879924 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3764C8FE2A650C1B00879924 /* Build configuration list for PBXProject "IOS practice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3764C8FF2A650C1B00879924 /* Debug */,
+				3764C9002A650C1B00879924 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3764C8FB2A650C1B00879924 /* Project object */;
+}
