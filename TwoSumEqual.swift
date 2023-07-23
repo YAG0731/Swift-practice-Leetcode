@@ -22,3 +22,4 @@ cclass Solution {
         return (Int(firstNum)! + Int(secondNum)!) == Int(targetNum)!
     }
 }
+
